@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/HydroFileMaker" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
