@@ -9,15 +9,16 @@
 [general]
 name=inSALMO HydroFileMaker
 qgisMinimumVersion=2.0
+qgisMaximumVersion = 2.18
 description=Makes inSALMO Hydro File
-version=0.1
+version=0.2
 author=Peter Dudley
 email=pndphd@gmail.com
 
 about=Makes inSALMO Hydro File
 
-tracker=github.com
-repository=github.com
+tracker=https://github.com/pndphd/HydroFileMaker/Issues
+repository=https://github.com/pndphd/HydroFileMaker
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +29,7 @@ repository=github.com
 # Tags are comma separated with spaces allowed
 tags=
 
-homepage=
+homepage= https://github.com/pndphd/HydroFileMaker
 category=Plugins
 icon=icon.png
 # experimental flag
